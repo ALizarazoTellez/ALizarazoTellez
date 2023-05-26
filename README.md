@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!--
-**ALizarazoTellez/ALizarazoTellez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Arch Linux Enthusiast & Systems Engineering Student.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
